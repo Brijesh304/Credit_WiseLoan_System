@@ -1,0 +1,25 @@
+# Node / Frontend
+node_modules/
+dist/
+.tanstack/
+.nitro/
+.cache/
+*.log
+.env.local
+
+# Python / ML
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.virtual_documents/
+.ipynb_checkpoints/
+.venv/
+venv/
+ENV/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
